@@ -1,0 +1,2 @@
+# scripts
+Skrypty pod deployment
