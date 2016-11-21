@@ -1,2 +1,2 @@
 # scripts
-Skrypty pod deployment
+Skrypty pod deployment np. poprzez Ansible
